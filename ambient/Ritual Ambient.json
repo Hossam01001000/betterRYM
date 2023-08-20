@@ -1,0 +1,506 @@
+{
+  "Natural Snow Buildings": [
+    {
+      "name": "Daughter of Darkness",
+      "date": "27 January 2009",
+      "rating": "3.95"
+    },
+    {
+      "name": "Daughter of Darkness V",
+      "date": "29 January 2009",
+      "rating": "3.37"
+    },
+    {
+      "name": "Slayer of the King of Hell",
+      "date": "10 March 2008",
+      "rating": "3.34"
+    },
+    { "name": "Norns", "date": "2008", "rating": "3.04" }
+  ],
+  "SPK": [
+    {
+      "name": "Zamia Lehmanni: Songs of Byzantine Flowers",
+      "date": "1986",
+      "rating": "3.60"
+    }
+  ],
+  "I.corax": [
+    {
+      "name": "The Cadaver Pulse II: Mothelix Liquescent",
+      "date": "2003",
+      "rating": "3.60"
+    },
+    {
+      "name": "The Cadaver Pulse I: Sealed in a Radiant Larval Maelstrom",
+      "date": "2003",
+      "rating": "3.61"
+    },
+    { "name": "Spectral Metabolism", "date": "March 2005", "rating": "3.47" },
+    {
+      "name": "from gOLDem flesh to silverb ONE",
+      "date": "2003",
+      "rating": "3.50"
+    }
+  ],
+  "Vasilisk": [
+    { "name": "Acqua", "date": "1989", "rating": "3.56" },
+    { "name": "Mkwaju", "date": "1988", "rating": "3.54" },
+    { "name": "Whirling Dervishes", "date": "1987", "rating": "3.43" },
+    { "name": "Tribal Zone", "date": "May 2012", "rating": "3.58" }
+  ],
+  "Herbst9": [
+    { "name": "Ušumgal Kalamma", "date": "17 December 2011", "rating": "3.56" },
+    {
+      "name": "Buried Under Time and Sand",
+      "date": "May 2005",
+      "rating": "3.51"
+    },
+    {
+      "name": "Through Bleak Landscapes",
+      "date": "25 May 2007",
+      "rating": "3.47"
+    },
+    { "name": "From a Dark Chasm Below", "date": "1999", "rating": "3.51" },
+    {
+      "name": "The Gods Are Small Birds, But I Am the Falcon",
+      "date": "20 October 2008",
+      "rating": "3.47"
+    }
+  ],
+  "ZAÄAR": [
+    { "name": "Magická Džungl’a", "date": "5 November 2021", "rating": "3.55" }
+  ],
+  "Halo Manash": [
+    { "name": "SYoMA", "date": "July 2004", "rating": "3.55" },
+    { "name": "Par-Antra I: VIR", "date": "February 2004", "rating": "3.53" },
+    {
+      "name": "Language of Red Goats",
+      "date": "February 2008",
+      "rating": "3.34"
+    },
+    { "name": "Taiwaskivi", "date": "16 November 2009", "rating": "3.62" },
+    { "name": "Se its en", "date": "2003", "rating": "3.58" },
+    { "name": "Am Kha Astrie", "date": "October 2008", "rating": "3.56" },
+    {
+      "name": "Caickuwi Cauwas Walkeus",
+      "date": "January 2009",
+      "rating": "3.68"
+    },
+    { "name": "r.A.S.H.n.k.a-RA", "date": "February 2007", "rating": "3.62" },
+    { "name": "Wesieni wainajat", "date": "November 2013", "rating": "3.49" },
+    { "name": "Haudattujen valvoja", "date": "1 July 2015", "rating": "3.57" }
+  ],
+  "T.A.G.C.": [{ "name": "Digitaria", "date": "1986", "rating": "3.54" }],
+  "Black Mountain Transmitter": [
+    {
+      "name": "Black Goat of the Woods",
+      "date": "31 October 2009",
+      "rating": "3.49"
+    }
+  ],
+  "Arktau Eos": [
+    { "name": "Mirrorion", "date": "21 June 2006", "rating": "3.49" },
+    { "name": "Ai Ma Ra", "date": "August 2009", "rating": "3.54" },
+    { "name": "Ioh-Maera", "date": "16 November 2012", "rating": "3.46" },
+    { "name": "Scorpion Milk", "date": "June 2006", "rating": "3.41" },
+    { "name": "Unworeldes", "date": "16 November 2012", "rating": "3.39" }
+  ],
+  "John Zorn": [
+    {
+      "name": "IAO: Music in Sacred Light",
+      "date": "21 May 2002",
+      "rating": "3.47"
+    }
+  ],
+  "Lustmord": [
+    { "name": "The Word as Power", "date": "8 July 2013", "rating": "3.42" }
+  ],
+  "Endura": [
+    { "name": "Black Eden", "date": "1996", "rating": "3.44" },
+    { "name": "Great God Pan", "date": "1997", "rating": "3.61" },
+    { "name": "Dreams of Dark Waters", "date": "1994", "rating": "3.53" },
+    { "name": "The Dark Is Light Enough", "date": "1996", "rating": "3.78" },
+    {
+      "name": "Dark Projections From an Ancient Nature",
+      "date": "1995",
+      "rating": "3.30"
+    },
+    { "name": "Liber Leviathan", "date": "1996", "rating": "3.26" }
+  ],
+  "Aeoga": [
+    {
+      "name": "Zenith Beyond the Helix-Locus",
+      "date": "October 2005",
+      "rating": "3.42"
+    },
+    { "name": "COAV", "date": "July 2004", "rating": "3.40" },
+    {
+      "name": "Triangle of Nebula-Devourers",
+      "date": "October 2005",
+      "rating": "3.51"
+    },
+    { "name": "Temple Treye", "date": "February 2014", "rating": "3.17" }
+  ],
+  "LAShTAL": [{ "name": "Thoum Aesh Neith", "date": "1986", "rating": "3.41" }],
+  "Gazelle Twin": [
+    { "name": "Deep England", "date": "19 March 2021", "rating": "3.39" }
+  ],
+  "Current 93": [
+    { "name": "Nature Unveiled", "date": "1984", "rating": "3.35" },
+    { "name": "In Menstrual Night", "date": "1986", "rating": "2.92" }
+  ],
+  "Nekropolis": [
+    { "name": "Musik aus dem Schattenreich", "date": "1981", "rating": "3.36" }
+  ],
+  "The Moon Lay Hidden Beneath a Cloud": [
+    {
+      "name": "The Moon Lay Hidden Beneath a Cloud",
+      "date": "1993",
+      "rating": "3.36"
+    }
+  ],
+  "Kurotokage": [
+    { "name": "Call to the Deep", "date": "2001", "rating": "3.54" }
+  ],
+  "Sigillum S": [
+    { "name": "Bardo Thos-Grol", "date": "1987", "rating": "3.36" },
+    { "name": "Trance Flexure", "date": "1986", "rating": "3.26" }
+  ],
+  "Minóy": [
+    { "name": "The Art of Egyptian Bathing", "date": "1986", "rating": "3.34" }
+  ],
+  "Gnaw Their Tongues": [
+    {
+      "name": "Per Flagellum Sanguemque, Tenebras Veneramus",
+      "date": "8 November 2011",
+      "rating": "3.33"
+    }
+  ],
+  "Zero Kama": [
+    {
+      "name": "The Secret Eye of L.A.Y.L.A.H.",
+      "date": "September 1984",
+      "rating": "3.27"
+    }
+  ],
+  "Forndom": [
+    { "name": "Dauðra Dura", "date": "29 January 2016", "rating": "3.28" },
+    { "name": "Faþir", "date": "3 April 2020", "rating": "3.23" }
+  ],
+  "Aghast": [
+    {
+      "name": "Hexerei im Zwielicht der Finsternis",
+      "date": "1995",
+      "rating": "3.24"
+    }
+  ],
+  "Delerium": [
+    {
+      "name": "Spiritual Archives",
+      "date": "6 December 1991",
+      "rating": "3.39"
+    },
+    { "name": "Syrophenikan", "date": "1990", "rating": "3.18" }
+  ],
+  "Darja Kazimira": [
+    { "name": "Death of the Bull", "date": "20 March 2019", "rating": "3.41" },
+    { "name": "Medea Forgives Jason", "date": "1 April 2022", "rating": "3.36" }
+  ],
+  "Chaos Echœs": [
+    { "name": "Transient", "date": "20 April 2015", "rating": "3.27" }
+  ],
+  "The Skaters": [
+    { "name": "Dark Rye Bread", "date": "2004", "rating": "3.24" },
+    {
+      "name": "Physicalities of the Sensibilites of Ingrediential Strairways",
+      "date": "2 August 2008",
+      "rating": "3.14"
+    },
+    {
+      "name": "Pavilionous Miracles of Circular Facet Dice",
+      "date": "2005",
+      "rating": "3.06"
+    },
+    { "name": "Crowned Purple Gowns", "date": "2005", "rating": "3.20" },
+    { "name": "Mountain of Signs", "date": "2004", "rating": "3.15" },
+    {
+      "name": "Dispersed Royalty Ornaments",
+      "date": "May 2007",
+      "rating": "3.16"
+    }
+  ],
+  "Ain Soph": [
+    { "name": "Kshatriya", "date": "1988", "rating": "3.24" },
+    { "name": "Ars Regia", "date": "1986", "rating": "3.23" },
+    { "name": "I", "date": "1984", "rating": "3.21" },
+    { "name": "II", "date": "1985", "rating": "3.24" },
+    { "name": "Simulacra", "date": "1989", "rating": "3.14" }
+  ],
+  "Stephen O'Malley": [
+    { "name": "Bima Sakti", "date": "16 July 2020", "rating": "3.26" }
+  ],
+  "The Nazgûl": [{ "name": "The Nazgûl", "date": "1997", "rating": "3.23" }],
+  "Pocahaunted": [
+    { "name": "Hunted Gathering", "date": "29 August 2007", "rating": "3.50" }
+  ],
+  "Inade": [{ "name": "Burning Flesh", "date": "2000", "rating": "3.56" }],
+  "Hexentanz": [
+    { "name": "Nekrocrafte", "date": "June 2004", "rating": "3.23" }
+  ],
+  "Hawthonn": [
+    {
+      "name": "Red Goddess (Of This Men Shall Know Nothing)",
+      "date": "23 March 2018",
+      "rating": "3.22"
+    }
+  ],
+  "23 Skidoo": [
+    {
+      "name": "The Culling Is Coming",
+      "date": "February 1983",
+      "rating": "3.17"
+    }
+  ],
+  " Enmity": [
+    { "name": "巫怨 (Wuyuan)", "date": "March 2005", "rating": "3.13" }
+  ],
+  "Lamia Vox": [
+    { "name": "Sigillum Diaboli", "date": "31 March 2013", "rating": "3.37" }
+  ],
+  "At the Altar of the Horned God": [
+    {
+      "name": "Through Doors of Moonlight",
+      "date": "17 April 2020",
+      "rating": "3.15"
+    }
+  ],
+  "African Imperial Wizard": [
+    { "name": "Isandhlwana", "date": "7 May 2021", "rating": "3.26" },
+    { "name": "Nzinga Mbande", "date": "December 2022", "rating": "3.32" }
+  ],
+  "Masstishaddhu": [{ "name": "Shekinah", "date": "1988", "rating": "3.42" }],
+  "Muslimgauze": [{ "name": "Hajj", "date": "August 1986", "rating": "3.15" }],
+  "Ordo Equilibrio": [
+    {
+      "name": "The Triumph of Light... and Thy Thirteen Shadows of Love",
+      "date": "1997",
+      "rating": "3.33"
+    }
+  ],
+  "Psychic TV": [{ "name": "Themes", "date": "1982", "rating": "3.11" }],
+  "Deutsch Nepal": [
+    {
+      "name": "¡Comprendido!... Time Stop! ...And World Ending",
+      "date": "1996",
+      "rating": "3.54"
+    }
+  ],
+  "Abdullah Miniawy": [
+    {
+      "name": "Notice a Tiny Scratch for the Blue Behind",
+      "date": "10 February 2022",
+      "rating": "3.45"
+    }
+  ],
+  "Reverorum Ib Malacht": [
+    {
+      "name": "De Mysteriis Dom Christi",
+      "date": "16 September 2014",
+      "rating": "3.36"
+    },
+    {
+      "name": "De Mysteriis Dom Christi",
+      "date": "16 September 2014",
+      "rating": "3.17"
+    },
+    {
+      "name": "De Mysteriis Dom Christi",
+      "date": "16 September 2014",
+      "rating": "3.15"
+    }
+  ],
+  "Asunta": [{ "name": "Astralis", "date": "1999", "rating": "3.61" }],
+  "Metgumbnerbone": [
+    { "name": "Ligeliahorn", "date": "1983", "rating": "3.41" }
+  ],
+  "Danheim": [
+    { "name": "Herja", "date": "1 April 2018", "rating": "3.35" },
+    { "name": "Fridr", "date": "1 April 2018", "rating": "3.28" }
+  ],
+  "Yhdarl": [
+    { "name": "Ave Maria", "date": "15 April 2011", "rating": "3.47" }
+  ],
+  "Pan als Allgott Saturnia, 1977": [
+    {
+      "name": "Pan als Allgott Saturnia, 1977",
+      "date": "April 2006",
+      "rating": "3.26"
+    }
+  ],
+  "Isengrind": [{ "name": "Golestân", "date": "2007", "rating": "3.10" }],
+  "Phelios": [
+    { "name": "Astral Unity", "date": "22 February 2010", "rating": "3.49" }
+  ],
+  "Corum": [
+    {
+      "name": "Coastal Vudutronic Voyage",
+      "date": "11 July 2016",
+      "rating": "3.56"
+    }
+  ],
+  "Treha Sektori": [
+    { "name": "Sorieh", "date": "23 September 2009", "rating": "3.29" },
+    { "name": "Rejet", "date": "5 November 2021", "rating": "3.40" }
+  ],
+  "Anilah": [{ "name": "Warrior", "date": "4 January 2014", "rating": "3.45" }],
+  "Visions": [{ "name": "Monad", "date": "25 April 2018", "rating": "3.37" }],
+  "Svasti-ayanam": [
+    { "name": "Sanklesa", "date": "June 1998", "rating": "3.51" }
+  ],
+  "Akhlys": [
+    { "name": "Supplication", "date": "14 October 2009", "rating": "2.77" }
+  ],
+  "Beherit": [
+    { "name": "Bardo Exist", "date": "13 November 2020", "rating": "2.78" },
+    { "name": "H418ov21.C", "date": "19 February 1994", "rating": "2.59" }
+  ],
+  "Vishudha Kali": [
+    { "name": "=Psenodakh=", "date": "2002", "rating": "3.28" }
+  ],
+  "Tzolk'in": [
+    { "name": "Haab'", "date": "19 February 2008", "rating": "3.28" },
+    { "name": "Tzolk'in", "date": "24 September 2004", "rating": "3.48" },
+    { "name": "Tonatiuh", "date": "8 September 2010", "rating": "3.28" }
+  ],
+  "Penjaga Insaf": [
+    { "name": "Sama Sadja", "date": "11 May 2010", "rating": "3.34" }
+  ],
+  "Chrystal Belle Scrodd": [
+    { "name": "Belle de jour", "date": "1986", "rating": "3.50" }
+  ],
+  "Akhernar": [
+    {
+      "name": "Labyrinths of Darkness",
+      "date": "24 January 2022",
+      "rating": "3.26"
+    }
+  ],
+  "Coph Nia": [
+    { "name": "That Which Remains", "date": "September 2000", "rating": "3.20" }
+  ],
+  "Theologian": [
+    { "name": "Pain of the Saints", "date": "7 January 2015", "rating": "3.20" }
+  ],
+  "Draugurinn": [
+    { "name": "Ísavetur", "date": "21 August 2015", "rating": "3.36" }
+  ],
+  "Ak'chamel": [
+    {
+      "name": "A Mournful Kingdom of Sand",
+      "date": "25 November 2022",
+      "rating": "3.52"
+    }
+  ],
+  "Life Garden": [
+    {
+      "name": "The Hungry Void Volume Two: Air",
+      "date": "1995",
+      "rating": "3.56"
+    }
+  ],
+  "Lunar Abyss Deus Organum": [
+    { "name": "Snovidenie", "date": "2006", "rating": "3.36" }
+  ],
+  "Attila Csihar": [
+    {
+      "name": "Void ov Voices : Baalbek",
+      "date": "17 February 2023",
+      "rating": "3.10"
+    }
+  ],
+  "Tam Quam Tabula Rasa": [
+    { "name": "Laborobiginis", "date": "1989", "rating": "3.39" }
+  ],
+  "AbRAXAS": [{ "name": "Hexe", "date": "1993", "rating": "3.09" }],
+  "Dave Phillips": [
+    { "name": "Post Homo Sapiens", "date": "January 2020", "rating": "3.16" },
+    { "name": "They Live", "date": "22 January 2009", "rating": "3.49" }
+  ],
+  "Blood of the Black Owl": [
+    {
+      "name": "A Banishing Ritual",
+      "date": "27 February 2010",
+      "rating": "3.12"
+    }
+  ],
+  "Hybryds": [
+    { "name": "Music for Rituals", "date": "1992", "rating": "3.38" }
+  ],
+  "Phragments": [
+    {
+      "name": "Earth Shall Not Cover Their Blood",
+      "date": "2008",
+      "rating": "3.32"
+    }
+  ],
+  "Metatron Omega": [
+    { "name": "Gnosis Dei", "date": "14 July 2015", "rating": "3.31" }
+  ],
+  "David Parsons": [{ "name": "Dorje Ling", "date": "1992", "rating": "3.56" }],
+  "Jorge Reyes": [
+    { "name": "Bajo el sol jaguar", "date": "1991", "rating": "3.37" }
+  ],
+  "Million Brazilians": [
+    { "name": "Wet Dry Jungala", "date": "November 2013", "rating": "3.30" }
+  ],
+  "Cadu Tenório": [
+    { "name": "Signal Eustasy VI", "date": "7 May 2021", "rating": "3.36" }
+  ],
+  "Sleep Chamber": [
+    { "name": "Sexmagick Ritual", "date": "1987", "rating": "3.02" }
+  ],
+  "Bull of Heaven": [
+    {
+      "name": "017: Its Bones Are Soft",
+      "date": "15 February 2008",
+      "rating": "2.89"
+    }
+  ],
+  "Heavens Burst Creation Horizonz": [
+    {
+      "name": "Heavens Burst Creation Horizonz (a.k.a. Ultimate Reality Has Been Seen and Has Been Placed)",
+      "date": "2005",
+      "rating": "2.88"
+    }
+  ],
+  "CHVE": [{ "name": "10910", "date": "11 November 2016", "rating": "3.47" }],
+  "Funerary Call": [
+    { "name": "Beckoning at the Black", "date": "2004", "rating": "3.35" }
+  ],
+  "NYIÞ": [
+    {
+      "name": "Visni þitt hold svo betur megi hæfa þeim hug sem það hýsir",
+      "date": "12 July 2014",
+      "rating": "3.18"
+    }
+  ],
+  "Exotoendo": [
+    { "name": "Endorcism Process", "date": "1998", "rating": "3.25" }
+  ],
+  "Tuu": [
+    { "name": "Mesh", "date": "20 May 1997", "rating": "3.37" },
+    { "name": "Terma", "date": "18 August 1998", "rating": "3.40" }
+  ],
+  "Sir Richard Bishop": [
+    { "name": "Beyond All Defects", "date": "21 August 2012", "rating": "3.25" }
+  ],
+  "Shibalba": [
+    { "name": "Samsara", "date": "21 December 2015", "rating": "3.61" }
+  ],
+  "Undirheimar": [
+    { "name": "Vardlokkur", "date": "1 April 2022", "rating": "3.50" }
+  ],
+  "Cyrnai": [
+    { "name": "Parts of the Insomnic Wheel", "date": "1986", "rating": "3.59" }
+  ]
+}

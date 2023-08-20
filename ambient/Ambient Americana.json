@@ -1,0 +1,254 @@
+{
+  "Old Saw": [
+    { "name": "Country Tropics", "date": "19 November 2021", "rating": "3.65" },
+    { "name": "Sewn the Name", "date": "31 March 2023", "rating": "3.38" }
+  ],
+  "James Ferraro": [
+    {
+      "name": "Last American Hero / Adrenaline's End",
+      "date": "10 November 2008",
+      "rating": "3.61"
+    },
+    { "name": "Speed", "date": "22 December 2017", "rating": "3.23" }
+  ],
+  "Hank & Slim": [
+    { "name": "The World Turned Gingham", "date": "2000", "rating": "3.59" }
+  ],
+  "Buckethead": [
+    { "name": "Pike 13", "date": "13 May 2013", "rating": "3.59" }
+  ],
+  "Bill Frisell": [
+    { "name": "Good Dog, Happy Man", "date": "18 May 1999", "rating": "3.57" }
+  ],
+  "Adrianne Lenker": [
+    { "name": "Instrumentals", "date": "22 October 2020", "rating": "3.52" }
+  ],
+  "Loren MazzaCane Connors": [
+    { "name": "Lullaby", "date": "2001", "rating": "3.53" }
+  ],
+  "Hayden Pedigo": [
+    { "name": "Letting Go", "date": "24 September 2021", "rating": "3.51" },
+    {
+      "name": "The Happiest Times I Ever Ignored",
+      "date": "30 June 2023",
+      "rating": "3.45"
+    },
+    {
+      "name": "Greetings From Amarillo",
+      "date": "9 June 2017",
+      "rating": "3.33"
+    }
+  ],
+  "A Small Good Thing": [
+    { "name": "Slim Westerns", "date": "1994", "rating": "3.50" }
+  ],
+  "Suss": [
+    { "name": "Ghost Box", "date": "2 February 2018", "rating": "3.47" },
+    { "name": "High Line", "date": "8 November 2019", "rating": "3.38" },
+    { "name": "Promise", "date": "4 December 2020", "rating": "3.25" }
+  ],
+  "William Tyler": [
+    { "name": "Impossible Truth", "date": "19 March 2013", "rating": "3.46" },
+    {
+      "name": "Behold the Spirit",
+      "date": "22 November 2010",
+      "rating": "3.38"
+    }
+  ],
+  "Scott Tuma": [
+    { "name": "Hard Again", "date": "2001", "rating": "3.45" },
+    { "name": "Not for Nobody", "date": "2008", "rating": "3.48" }
+  ],
+  "Golden Retriever": [
+    { "name": "Rain Shadow", "date": "19 June 2020", "rating": "3.45" }
+  ],
+  "Barn Owl": [
+    {
+      "name": "Lost in the Glare",
+      "date": "13 September 2011",
+      "rating": "3.40"
+    },
+    { "name": "Raft of Serpents", "date": "31 May 2008", "rating": "3.21" }
+  ],
+  "Boxhead Ensemble": [
+    { "name": "Two Brothers", "date": "21 August 2001", "rating": "3.41" }
+  ],
+  "Roy Montgomery": [
+    { "name": "H: Bender", "date": "21 October 2016", "rating": "3.44" }
+  ],
+  "Chuck Johnson": [
+    { "name": "Balsams", "date": "2 June 2017", "rating": "3.39" },
+    { "name": "The Cinder Grove", "date": "5 February 2021", "rating": "3.31" }
+  ],
+  "Daniel Lanois": [
+    { "name": "Belladonna", "date": "12 July 2005", "rating": "3.39" },
+    {
+      "name": "Goodbye to Language",
+      "date": "9 September 2016",
+      "rating": "3.17"
+    }
+  ],
+  ":zoviet*france:": [
+    {
+      "name": "The Decriminalisation of Country Music: Themes for Tramway",
+      "date": "2000",
+      "rating": "3.36"
+    }
+  ],
+  "North Americans": [
+    { "name": "Roped In", "date": "9 October 2020", "rating": "3.36" },
+    { "name": "Long Cool World", "date": "7 April 2023", "rating": "3.48" },
+    { "name": "Going Steady", "date": "14 September 2018", "rating": "3.43" }
+  ],
+  "Souled American": [{ "name": "Frozen", "date": "1994", "rating": "3.36" }],
+  "Daniel Bachman": [
+    { "name": "Almanac Behind", "date": "18 November 2022", "rating": "3.35" }
+  ],
+  "An Evening Redness": [
+    {
+      "name": "An Evening Redness",
+      "date": "25 February 2022",
+      "rating": "3.33"
+    }
+  ],
+  "Marisa Anderson": [
+    { "name": "Lost Futures", "date": "27 August 2021", "rating": "3.31" },
+    { "name": "Into the Light", "date": "24 June 2016", "rating": "3.32" }
+  ],
+  "Blue Lake": [
+    { "name": "Sun Arcs", "date": "23 June 2023", "rating": "3.27" }
+  ],
+  "Western Skies Motel": [
+    { "name": "Settlers", "date": "22 April 2016", "rating": "3.41" }
+  ],
+  "Steve Roach": [{ "name": "Dust to Dust", "date": "1998", "rating": "3.40" }],
+  "Date Palms": [
+    { "name": "The Dusted Sessions", "date": "16 June 2013", "rating": "3.30" }
+  ],
+  "Joshua Chuquimia Crampton": [
+    { "name": "The Heart's Wash", "date": "7 August 2020", "rating": "3.61" }
+  ],
+  "Horseback": [
+    { "name": "Piedmont Apocrypha", "date": "25 March 2014", "rating": "3.16" }
+  ],
+  "Ezra Feinberg": [
+    { "name": "Recumbent Speech", "date": "26 June 2020", "rating": "3.44" }
+  ],
+  "Ikue Mori": [{ "name": "Painted Desert", "date": "1995", "rating": "3.13" }],
+  "Ben McElroy": [
+    {
+      "name": "How I Learnt to Disengage From the Pack",
+      "date": "28 January 2022",
+      "rating": "3.30"
+    }
+  ],
+  "World Standard": [
+    { "name": "Country Gazette", "date": "24 February 1998", "rating": "3.44" },
+    { "name": "Mountain Ballad", "date": "5 December 1999", "rating": "3.65" }
+  ],
+  "Geir Sundstøl": [
+    { "name": "Langen Ro", "date": "28 October 2016", "rating": "3.50" }
+  ],
+  "Matthew J. Rolin": [
+    { "name": "Prism", "date": "3 March 2023", "rating": "3.41" }
+  ],
+  "Pan•American": [
+    {
+      "name": "The Patience Fader",
+      "date": "18 February 2022",
+      "rating": "2.92"
+    }
+  ],
+  "Hermanos Gutiérrez": [
+    {
+      "name": "El bueno y el malo",
+      "date": "28 October 2022",
+      "rating": "3.48"
+    },
+    { "name": "Hijos del sol", "date": "25 September 2020", "rating": "3.66" },
+    { "name": "8 años", "date": "6 January 2017", "rating": "3.71" },
+    { "name": "Hoy como ayer", "date": "27 September 2019", "rating": "3.59" }
+  ],
+  "Andrew Tuttle": [
+    { "name": "Fleeting Adventure", "date": "29 July 2022", "rating": "3.28" },
+    { "name": "Alexandra", "date": "15 May 2020", "rating": "3.31" }
+  ],
+  "Gianluca Becuzzi & Fabio Orsi": [
+    {
+      "name": "Muddy Speaking Ghosts Through My Machines",
+      "date": "3 January 2007",
+      "rating": "3.42"
+    }
+  ],
+  "Nathan Salsburg": [
+    { "name": "Landwerk No. 3", "date": "9 December 2022", "rating": "3.48" },
+    { "name": "Landwerk", "date": "1 May 2020", "rating": "3.41" },
+    { "name": "Landwerk No. 2", "date": "4 December 2020", "rating": "3.43" }
+  ],
+  "Pullman": [
+    {
+      "name": "Turnstyles and Junkpiles",
+      "date": "11 August 1998",
+      "rating": "3.34"
+    }
+  ],
+  "Bull of Heaven": [
+    {
+      "name": "014: Upon One Pair of English Legs",
+      "date": "11 February 2008",
+      "rating": "2.84"
+    }
+  ],
+  "Eerie Gaits": [
+    { "name": "Bridge Music", "date": "23 June 2017", "rating": "3.39" }
+  ],
+  "Chihei Hatakeyama": [
+    { "name": "Earth Awhile", "date": "29 January 2021", "rating": "3.24" }
+  ],
+  "Davenport": [{ "name": "Free Country", "date": "2004", "rating": "3.31" }],
+  "Saariselka": [
+    {
+      "name": "The Ground Our Sky",
+      "date": "19 October 2019",
+      "rating": "3.18"
+    }
+  ],
+  "Calexico": [{ "name": "Travelall", "date": "2000", "rating": "3.13" }],
+  "High Aura'd": [
+    {
+      "name": "No River Long Enough Doesn't Contain a Bend",
+      "date": "27 October 2017",
+      "rating": "3.23"
+    }
+  ],
+  "numün": [
+    { "name": "Voyage au Soleil", "date": "4 September 2020", "rating": "3.25" }
+  ],
+  "Mentalt Syk": [
+    { "name": "The Death of Cupid", "date": "1 January 2023", "rating": "2.91" }
+  ],
+  "Duncan Marquiss": [
+    {
+      "name": "Wires Turned Sideways in Time",
+      "date": "4 March 2022",
+      "rating": "3.33"
+    }
+  ],
+  "Bobby Lee": [
+    { "name": "Origin Myths", "date": "5 March 2021", "rating": "3.17" }
+  ],
+  "Marcus Eads": [
+    { "name": "Yacht Fire!", "date": "1 June 2014", "rating": "3.22" }
+  ],
+  "Sumner McKane": [{ "name": "North", "date": "2005", "rating": "3.63" }],
+  "Chequerboard": [
+    { "name": "The Unfolding", "date": "27 September 2013", "rating": "3.79" }
+  ],
+  "Abbc": [{ "name": "Tête à tête", "date": "April 2001", "rating": "3.20" }],
+  "Jozef van Wissem and Jim Jarmusch": [
+    { "name": "American Landscapes", "date": "7 March 2023", "rating": "3.19" }
+  ],
+  "Ann Annie": [
+    { "name": "By Morning", "date": "1 November 2022", "rating": "3.27" }
+  ]
+}

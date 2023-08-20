@@ -1,0 +1,908 @@
+{
+  "The Caretaker": [
+    {
+      "name": "Everywhere at the End of Time: Stage 6",
+      "date": "14 March 2019",
+      "rating": "3.73"
+    },
+    {
+      "name": "Everywhere at the End of Time: Stage 4",
+      "date": "5 April 2018",
+      "rating": "3.61"
+    },
+    { "name": "A Stairway to the Stars", "date": "May 2002", "rating": "3.56" },
+    {
+      "name": "Everywhere at the End of Time: Stage 5",
+      "date": "20 September 2018",
+      "rating": "3.52"
+    },
+    {
+      "name": "We'll All Go Riding on a Rainbow",
+      "date": "July 2003",
+      "rating": "3.38"
+    },
+    {
+      "name": "Selected Memories From the Haunted Ballroom",
+      "date": "September 1999",
+      "rating": "3.30"
+    },
+    {
+      "name": "Take Care, It's a Desert Out There...",
+      "date": "8 December 2017",
+      "rating": "3.29"
+    },
+    {
+      "name": "Theoretically Pure Anterograde Amnesia",
+      "date": "31 May 2006",
+      "rating": "3.27"
+    }
+  ],
+  "Jason Lescalleet": [
+    { "name": "The Pilgrim", "date": "2006", "rating": "3.77" }
+  ],
+  "Christoph de Babalon": [
+    {
+      "name": "If You're Into It, I'm Out of It",
+      "date": "January 1997",
+      "rating": "3.72"
+    }
+  ],
+  "The Gerogerigegege": [
+    {
+      "name": "燃えない灰 (Moenai Hai)",
+      "date": "20 April 2016",
+      "rating": "3.71"
+    }
+  ],
+  "Uboa": [
+    {
+      "name": "The Origin of My Depression",
+      "date": "14 February 2019",
+      "rating": "3.67"
+    },
+    { "name": "The Sky May Be", "date": "18 October 2018", "rating": "3.58" }
+  ],
+  "Tim Hecker": [
+    { "name": "Mirages", "date": "20 September 2004", "rating": "3.67" }
+  ],
+  "Nurse With Wound": [
+    { "name": "Soliloquy for Lilith", "date": "1988", "rating": "3.64" },
+    {
+      "name": "Shipwreck Radio Volume One: Seven Sonic Structures From Utvær",
+      "date": "November 2004",
+      "rating": "3.57"
+    },
+    { "name": "Salt Marie Celeste", "date": "February 2003", "rating": "3.54" },
+    { "name": "Alice the Goon", "date": "1995", "rating": "3.49" },
+    {
+      "name": "Man With the Woman Face",
+      "date": "January 2002",
+      "rating": "3.43"
+    },
+    { "name": "Acts of Senseless Beauty", "date": "1997", "rating": "3.48" },
+    {
+      "name": "She & Me Fall Together in Free Death",
+      "date": "2003",
+      "rating": "3.25"
+    }
+  ],
+  "Kreng": [
+    {
+      "name": "Works for Abattoir Fermé 2007-2011",
+      "date": "5 October 2012",
+      "rating": "3.68"
+    },
+    { "name": "Grimoire", "date": "3 June 2011", "rating": "3.44" },
+    {
+      "name": "L'autopsie phénoménale de Dieu",
+      "date": "22 June 2009",
+      "rating": "3.32"
+    }
+  ],
+  "Sunn O)))": [
+    { "name": "Black One", "date": "3 October 2005", "rating": "3.60" },
+    {
+      "name": "The Iron Soul of Nothing",
+      "date": "29 November 2011",
+      "rating": "3.32"
+    }
+  ],
+  "Deathprod": [
+    {
+      "name": "Morals and Dogma",
+      "date": "23 February 2004",
+      "rating": "3.63"
+    },
+    {
+      "name": "Treetop Drive 1-3, Towboat",
+      "date": "10 October 1994",
+      "rating": "3.51"
+    },
+    {
+      "name": "Imaginary Songs From Tristan da Cunha",
+      "date": "1996",
+      "rating": "3.46"
+    }
+  ],
+  "Troum": [
+    { "name": "Shutûn", "date": "15 December 2006", "rating": "3.63" },
+    { "name": "Eald-ge-stréon", "date": "24 March 2009", "rating": "3.58" },
+    { "name": "Mnemonic Induction", "date": "2002", "rating": "3.58" },
+    { "name": "Sigqan", "date": "June 2003", "rating": "3.48" },
+    {
+      "name": "Mort aux vaches: Sen",
+      "date": "September 2000",
+      "rating": "3.62"
+    },
+    { "name": "AIWS", "date": "1 August 2007", "rating": "3.53" }
+  ],
+  "Robert Rich": [
+    { "name": "Stalker", "date": "21 November 1995", "rating": "3.61" }
+  ],
+  " Staruha Mha": [
+    { "name": "Fires", "date": "August 2004", "rating": "3.64" }
+  ],
+  "Land": [{ "name": "Opuscule", "date": "2002", "rating": "3.63" }],
+  "Les Joyaux de la Princesse": [
+    {
+      "name": "Exposition Internationale Paris 1937",
+      "date": "1998",
+      "rating": "3.63"
+    },
+    { "name": "Die Weiße Rose", "date": "1995", "rating": "3.51" },
+    {
+      "name": "Aux petits enfants de France",
+      "date": "1989",
+      "rating": "3.45"
+    },
+    {
+      "name": "In Memoriam P. Henriot 1889-1944",
+      "date": "2004",
+      "rating": "3.73"
+    },
+    { "name": "Östenbräun", "date": "1989", "rating": "3.25" }
+  ],
+  "Lustmord": [
+    {
+      "name": "The Place Where the Black Stars Hang",
+      "date": "1 January 1994",
+      "rating": "3.60"
+    },
+    { "name": "Carbon / Core", "date": "2004", "rating": "3.59" },
+    { "name": "Dark Matter", "date": "30 September 2016", "rating": "3.43" },
+    { "name": "The Word as Power", "date": "8 July 2013", "rating": "3.42" },
+    { "name": "Heretic", "date": "2 October 2010", "rating": "3.51" },
+    { "name": "The Monstrous Soul", "date": "1992", "rating": "3.33" },
+    { "name": "[ O T H E R ]", "date": "8 July 2008", "rating": "3.32" },
+    {
+      "name": "Songs of Gods and Demons",
+      "date": "19 March 2011",
+      "rating": "3.35"
+    },
+    { "name": "Metavoid", "date": "21 May 2001", "rating": "3.29" },
+    { "name": "Trinity", "date": "2 October 2020", "rating": "3.43" }
+  ],
+  "Maeror Tri": [{ "name": "Myein", "date": "May 1995", "rating": "3.62" }],
+  "Caroline K": [
+    { "name": "Now Wait for Last Year", "date": "1987", "rating": "3.60" }
+  ],
+  "PainKiller": [
+    { "name": "Execution Ground", "date": "15 November 1994", "rating": "3.59" }
+  ],
+  "The Hafler Trio": [
+    { "name": "Kill the King", "date": "1991", "rating": "3.65" }
+  ],
+  " father": [
+    { "name": "흰색 죽음", "date": "24 December 2015", "rating": "3.58" }
+  ],
+  "Blood Axis": [
+    { "name": "Absinthe - La folie verte", "date": "2002", "rating": "3.59" },
+    {
+      "name": "Absinthe - La folie verte [Absinthia taetra]",
+      "date": "2002",
+      "rating": "3.69"
+    }
+  ],
+  "Ben Frost": [
+    { "name": "By the Throat", "date": "19 October 2009", "rating": "3.56" }
+  ],
+  "Voice of Eye": [
+    { "name": "Transmigration", "date": "1995", "rating": "3.60" }
+  ],
+  "raison d'être": [
+    {
+      "name": "Within the Depths of Silence and Phormations",
+      "date": "1995",
+      "rating": "3.59"
+    },
+    {
+      "name": "The Empty Hollow Unfolds",
+      "date": "March 2000",
+      "rating": "3.55"
+    },
+    {
+      "name": "In Sadness, Silence and Solitude",
+      "date": "October 1997",
+      "rating": "3.54"
+    },
+    {
+      "name": "Requiem for Abandoned Souls",
+      "date": "21 November 2003",
+      "rating": "3.53"
+    },
+    {
+      "name": "Enthraled by the Wind of Lonelienes",
+      "date": "1994",
+      "rating": "3.40"
+    },
+    { "name": "Metamorphyses", "date": "April 2006", "rating": "3.46" },
+    { "name": "Prospectus I", "date": "1993", "rating": "3.33" }
+  ],
+  "Black Light District": [
+    {
+      "name": "A Thousand Lights in a Darkened Room",
+      "date": "October 1996",
+      "rating": "3.57"
+    }
+  ],
+  ":zoviet*france:": [
+    { "name": "Mohnomishe", "date": "November 1983", "rating": "3.56" },
+    { "name": "Shadow, Thief of the Sun", "date": "1991", "rating": "3.55" },
+    { "name": "Look Into Me", "date": "1990", "rating": "3.53" },
+    { "name": "Eostre", "date": "1984", "rating": "3.43" },
+    { "name": "Digilogue", "date": "1996", "rating": "3.49" }
+  ],
+  "Northaunt": [
+    { "name": "Barren Land", "date": "January 2004", "rating": "3.59" },
+    { "name": "Horizons", "date": "March 2006", "rating": "3.42" }
+  ],
+  "Steve Roach": [
+    { "name": "Darkest Before Dawn", "date": "2002", "rating": "3.57" }
+  ],
+  "Wardruna": [
+    {
+      "name": "Runaljod – gap var Ginnunga",
+      "date": "19 January 2009",
+      "rating": "3.54"
+    }
+  ],
+  "Naked City": [
+    { "name": "Absinthe", "date": "10 December 1993", "rating": "3.54" }
+  ],
+  "Darkspace": [
+    { "name": "Dark Space II", "date": "19 November 2005", "rating": "3.54" }
+  ],
+  "SleepResearch_Facility": [
+    { "name": "Stealth", "date": "9 April 2012", "rating": "3.58" },
+    { "name": "Nostromo", "date": "2001", "rating": "3.47" },
+    { "name": "Dead Weather Machine", "date": "2004", "rating": "3.49" }
+  ],
+  "Omit": [{ "name": "Quad", "date": "1994", "rating": "3.58" }],
+  "Maurizio Bianchi": [
+    { "name": "Mectpyo bakterium", "date": "1982", "rating": "3.57" }
+  ],
+  "The Haxan Cloak": [
+    { "name": "Excavation", "date": "15 April 2013", "rating": "3.52" },
+    { "name": "The Haxan Cloak", "date": "June 2011", "rating": "3.36" }
+  ],
+  "Thomas Köner": [
+    { "name": "Nuuk", "date": "20 September 2004", "rating": "3.55" },
+    { "name": "Aubrite", "date": "1995", "rating": "3.54" },
+    { "name": "Unerforschtes Gebiet", "date": "May 2002", "rating": "3.54" },
+    { "name": "Kaamos", "date": "1998", "rating": "3.53" },
+    { "name": "Teimo", "date": "1992", "rating": "3.50" },
+    { "name": "Permafrost", "date": "1993", "rating": "3.44" },
+    { "name": "La barca", "date": "31 August 2009", "rating": "3.46" },
+    { "name": "Novaya Zemlya", "date": "11 June 2012", "rating": "3.23" }
+  ],
+  "Asmorod": [{ "name": "Derelict", "date": "June 1999", "rating": "3.57" }],
+  "Desiderii Marginis": [
+    { "name": "Procession", "date": "28 May 2012", "rating": "3.57" },
+    { "name": "Seven Sorrows", "date": "17 May 2007", "rating": "3.48" },
+    {
+      "name": "That Which Is Tragic and Timeless",
+      "date": "27 September 2005",
+      "rating": "3.44"
+    },
+    { "name": "Deadbeat", "date": "2001", "rating": "3.40" }
+  ],
+  "Tusen år under jord": [
+    { "name": "Sorgsendömet Fobos", "date": "March 2013", "rating": "3.55" }
+  ],
+  "The Kilimanjaro Darkjazz Ensemble": [
+    { "name": "Here Be Dragons", "date": "15 October 2009", "rating": "3.52" },
+    { "name": "From the Stairwell", "date": "1 March 2011", "rating": "3.40" }
+  ],
+  "Coil": [
+    {
+      "name": "Moon's Milk (In Four Phases) Bonus Disc",
+      "date": "January 2002",
+      "rating": "3.55"
+    },
+    { "name": "Astral Disaster", "date": "1999", "rating": "3.49" },
+    {
+      "name": "How to Destroy Angels (New Remixes and Recordings)",
+      "date": "1992",
+      "rating": "3.27"
+    }
+  ],
+  "Pedestrian Deposit": [
+    { "name": "Dyers' Hands", "date": "19 March 2019", "rating": "3.53" }
+  ],
+  "Zoät·Aon": [
+    { "name": "Star Autopsy", "date": "28 February 2005", "rating": "3.55" }
+  ],
+  "Yen Pox": [
+    { "name": "Blood Music", "date": "1995", "rating": "3.56" },
+    {
+      "name": "Between the Horizon and the Abyss",
+      "date": "5 May 2015",
+      "rating": "3.47"
+    },
+    { "name": "New Dark Age", "date": "2000", "rating": "3.63" }
+  ],
+  "William Basinski": [
+    { "name": "Lamentations", "date": "13 November 2020", "rating": "3.52" }
+  ],
+  "Lull": [
+    { "name": "Cold Summer", "date": "1994", "rating": "3.52" },
+    { "name": "Continue", "date": "October 1996", "rating": "3.48" },
+    { "name": "Moments", "date": "23 June 1998", "rating": "3.42" },
+    { "name": "Dreamt About Dreaming", "date": "1992", "rating": "3.34" }
+  ],
+  "Kammarheit": [
+    { "name": "The Starwheel", "date": "March 2005", "rating": "3.53" },
+    {
+      "name": "Asleep and Well Hidden",
+      "date": "12 April 2003",
+      "rating": "3.51"
+    }
+  ],
+  "Demdike Stare": [
+    { "name": "Elemental", "date": "27 February 2012", "rating": "3.53" },
+    {
+      "name": "Liberation Through Hearing",
+      "date": "26 July 2010",
+      "rating": "3.48"
+    },
+    { "name": "Voices of Dust", "date": "29 November 2010", "rating": "3.41" }
+  ],
+  "Sephiroth": [
+    { "name": "Draconian Poetry", "date": "31 October 2005", "rating": "3.53" },
+    { "name": "Cathedron", "date": "June 1999", "rating": "3.47" }
+  ],
+  "Tor Lundvall": [
+    { "name": "Empty City", "date": "January 2006", "rating": "3.52" }
+  ],
+  "Elend": [
+    {
+      "name": "A World in Their Screams",
+      "date": "23 April 2007",
+      "rating": "3.48"
+    }
+  ],
+  "Vindensång": [
+    {
+      "name": "Terminus: Rebirth in Eight Parts...",
+      "date": "16 December 2008",
+      "rating": "3.51"
+    }
+  ],
+  "Irezumi": [
+    { "name": "Endurance", "date": "29 January 2008", "rating": "3.51" }
+  ],
+  "Rapoon": [
+    {
+      "name": "The Fires of the Borderlands",
+      "date": "10 February 1998",
+      "rating": "3.51"
+    }
+  ],
+  "Black Mountain Transmitter": [
+    {
+      "name": "Black Goat of the Woods",
+      "date": "31 October 2009",
+      "rating": "3.49"
+    }
+  ],
+  "Herbst9": [
+    {
+      "name": "Buried Under Time and Sand",
+      "date": "May 2005",
+      "rating": "3.51"
+    }
+  ],
+  "Arktau Eos": [
+    { "name": "Mirrorion", "date": "21 June 2006", "rating": "3.49" }
+  ],
+  "Paysage d'Hiver": [
+    { "name": "Steineiche", "date": "1998", "rating": "3.47" },
+    { "name": "Nacht", "date": "4 August 2004", "rating": "3.44" },
+    { "name": "Einsamkeit", "date": "April 2007", "rating": "3.42" },
+    { "name": "Kerker", "date": "1999", "rating": "3.21" }
+  ],
+  "Cyclobe": [
+    {
+      "name": "Wounded Galaxies Tap at the Window",
+      "date": "13 October 2010",
+      "rating": "3.51"
+    }
+  ],
+  "Black to Comm": [
+    {
+      "name": "Seven Horses for Seven Kings",
+      "date": "25 January 2019",
+      "rating": "3.47"
+    }
+  ],
+  "Andrew Liles": [
+    {
+      "name": "My Long Accumulating Discontent",
+      "date": "2004",
+      "rating": "3.50"
+    }
+  ],
+  "Paul Jebanasam": [
+    { "name": "Rites", "date": "22 April 2013", "rating": "3.50" }
+  ],
+  "Corrupted": [
+    {
+      "name": "Llenandose de gusanos",
+      "date": "15 October 1999",
+      "rating": "3.47"
+    }
+  ],
+  "Locrian": [
+    {
+      "name": "The Crystal World",
+      "date": "27 November 2010",
+      "rating": "3.47"
+    }
+  ],
+  "b e g o t t e n 自杀": [
+    { "name": "(hushwave) - 治愈它", "date": "11 June 2018", "rating": "3.48" },
+    {
+      "name": "(phantom psalms) - 幻影诗篇",
+      "date": "23 July 2018",
+      "rating": "3.33"
+    }
+  ],
+  "Current 93": [
+    {
+      "name": "Music for the Horse Hospital / Sounds From the Horse Hospital",
+      "date": "2002",
+      "rating": "3.48"
+    },
+    { "name": "Imperium", "date": "1987", "rating": "3.45" },
+    {
+      "name": "Invocations of Almost",
+      "date": "5 March 2019",
+      "rating": "3.40"
+    }
+  ],
+  "Paul Schütze": [
+    { "name": "New Maps of Hell", "date": "1992", "rating": "3.48" }
+  ],
+  "Nine Inch Nails": [
+    { "name": "Ghosts VI: Locusts", "date": "26 March 2020", "rating": "3.44" }
+  ],
+  "Organum": [
+    {
+      "name": "Birds' Wings Were Glued to Their Bodies and Their Feet Froze to the Ground",
+      "date": "1999",
+      "rating": "3.48"
+    },
+    { "name": "Vacant Lights", "date": "1987", "rating": "3.63" },
+    { "name": "Sphyx", "date": "1994", "rating": "3.54" }
+  ],
+  "Merzbow": [
+    {
+      "name": "Sleeper Awakes on the Edge of the Abyss",
+      "date": "1993",
+      "rating": "3.48"
+    }
+  ],
+  "Svartsinn": [
+    {
+      "name": "Traces of Nothingness",
+      "date": "31 October 2005",
+      "rating": "3.49"
+    }
+  ],
+  "Inade": [
+    { "name": "Aldebaran", "date": "2 September 1996", "rating": "3.48" },
+    {
+      "name": "The Incarnation of the Solar Architects",
+      "date": "May 2009",
+      "rating": "3.41"
+    }
+  ],
+  "Karjalan Sissit": [
+    { "name": "Karjalasta kajahtaa", "date": "May 2004", "rating": "3.45" }
+  ],
+  "Alan Lamb": [
+    {
+      "name": "Original Masters - Night Passage",
+      "date": "1998",
+      "rating": "3.45"
+    }
+  ],
+  "Saåad": [
+    { "name": "Verdaillon", "date": "15 September 2016", "rating": "3.47" }
+  ],
+  "Trist": [{ "name": "Hin-Fort", "date": "5 May 2007", "rating": "3.43" }],
+  "Dale Cooper Quartet & the Dictaphones": [
+    { "name": "Métamanoir", "date": "10 November 2011", "rating": "3.44" },
+    { "name": "Astrild Astrild", "date": "2 June 2017", "rating": "3.39" }
+  ],
+  "Death Ambient": [
+    { "name": "Drunken Forest", "date": "22 May 2007", "rating": "3.45" },
+    { "name": "Synaesthesia", "date": "16 November 1999", "rating": "3.37" },
+    { "name": "Death Ambient", "date": "21 November 1995", "rating": "3.33" }
+  ],
+  "Deutsch Nepal": [
+    {
+      "name": "Benevolence - Flogging Satan Alive",
+      "date": "1993",
+      "rating": "3.46"
+    }
+  ],
+  "Klein": [
+    { "name": "Cave in the Wind", "date": "1 September 2022", "rating": "3.45" }
+  ],
+  "Svarte Greiner": [
+    { "name": "Knive", "date": "13 November 2006", "rating": "3.44" }
+  ],
+  "Eric Zann": [
+    { "name": "Ouroborindra", "date": "4 April 2005", "rating": "3.45" }
+  ],
+  "David Lynch": [
+    {
+      "name": "The Air Is on Fire: Soundscape",
+      "date": "July 2007",
+      "rating": "3.46"
+    }
+  ],
+  "Stars of the Lid": [
+    {
+      "name": "Gravitational Pull vs. the Desire for an Aquatic Life",
+      "date": "1996",
+      "rating": "3.42"
+    }
+  ],
+  "Kassel Jaeger": [
+    { "name": "Fernweh", "date": "December 2012", "rating": "3.46" }
+  ],
+  "Main": [{ "name": "Firmament II", "date": "1994", "rating": "3.46" }],
+  "Prurient": [
+    { "name": "Rainbow Mirror", "date": "8 December 2017", "rating": "3.40" },
+    { "name": "The Golden Chamber", "date": "September 2007", "rating": "3.36" }
+  ],
+  "Korridor": [
+    { "name": "End of Cycle", "date": "24 September 2018", "rating": "3.42" }
+  ],
+  "Urfaust": [
+    { "name": "Teufelsgeist", "date": "26 November 2020", "rating": "3.42" }
+  ],
+  "OAKE": [
+    { "name": "Auferstehung", "date": "15 December 2014", "rating": "3.42" }
+  ],
+  "Bohren & der Club of Gore": [
+    { "name": "Midnight Radio", "date": "1997", "rating": "3.39" },
+    { "name": "Geisterfaust", "date": "2 May 2005", "rating": "3.34" }
+  ],
+  "Steven Stapleton": [
+    { "name": "The Sadness of Things", "date": "1991", "rating": "3.43" }
+  ],
+  "Endura": [{ "name": "Black Eden", "date": "1996", "rating": "3.44" }],
+  "Jacaszek": [
+    { "name": "Music for Film", "date": "27 March 2020", "rating": "3.43" }
+  ],
+  "Raime": [
+    {
+      "name": "Quarter Turns Over a Living Line",
+      "date": "19 November 2012",
+      "rating": "3.39"
+    }
+  ],
+  "Tribes of Neurot": [{ "name": "Grace", "date": "1999", "rating": "3.40" }],
+  "Peter Frohmader": [
+    {
+      "name": "Through Time and Mystery - Ending",
+      "date": "1988",
+      "rating": "3.40"
+    }
+  ],
+  "Atrium Carceri": [
+    { "name": "Seishinbyouin", "date": "September 2004", "rating": "3.39" },
+    { "name": "Miles to Midnight", "date": "9 January 2018", "rating": "3.41" },
+    { "name": "Cellblock", "date": "2 September 2003", "rating": "3.36" },
+    { "name": "Ptahil", "date": "10 February 2007", "rating": "3.36" },
+    {
+      "name": "Black Corner Den",
+      "date": "5 September 2017",
+      "rating": "3.53"
+    },
+    { "name": "Kapnobatai", "date": "26 September 2005", "rating": "3.34" }
+  ],
+  "Brighter Death Now": [
+    { "name": "Necrose Evangelicum", "date": "1995", "rating": "3.38" }
+  ],
+  "Olhon": [{ "name": "Sinkhole", "date": "March 2006", "rating": "3.39" }],
+  "Rainforest Spiritual Enslavement": [
+    { "name": "Green Graves", "date": "6 March 2016", "rating": "3.39" },
+    {
+      "name": "Simulated Thunderstorm",
+      "date": "26 April 2019",
+      "rating": "3.32"
+    },
+    {
+      "name": "Black Magic Cannot Cross Water",
+      "date": "30 May 2012",
+      "rating": "3.27"
+    }
+  ],
+  "Roly Porter": [
+    { "name": "Aftertime", "date": "19 September 2011", "rating": "3.39" },
+    {
+      "name": "Life Cycle of a Massive Star",
+      "date": "23 September 2013",
+      "rating": "3.39"
+    },
+    { "name": "Third Law", "date": "22 January 2016", "rating": "3.35" },
+    { "name": "Kistvaen", "date": "5 June 2020", "rating": "3.37" }
+  ],
+  "Yoga": [{ "name": "Megafauna", "date": "August 2009", "rating": "3.38" }],
+  "Black Lung": [
+    {
+      "name": "Silent Weapons for Quiet Wars",
+      "date": "1994",
+      "rating": "3.38"
+    }
+  ],
+  "Melvins": [
+    {
+      "name": "Pigs of the Roman Empire",
+      "date": "24 August 2004",
+      "rating": "3.36"
+    }
+  ],
+  "Cryo Chamber Collaboration": [
+    { "name": "Cthulhu", "date": "30 September 2014", "rating": "3.62" }
+  ],
+  "Inca Ore": [
+    { "name": "Inca Ore / Grouper", "date": "2007", "rating": "3.36" }
+  ],
+  "Maria W Horn": [
+    { "name": "Kontrapoetik", "date": "19 October 2018", "rating": "3.36" }
+  ],
+  "Asunta": [{ "name": "Landscapes", "date": "1996", "rating": "3.63" }],
+  "Treha Sektori": [
+    { "name": "Endessiah", "date": "31 October 2012", "rating": "3.56" }
+  ],
+  "Kurotokage": [
+    { "name": "Call to the Deep", "date": "2001", "rating": "3.54" }
+  ],
+  "Sigillum S": [
+    { "name": "Bardo Thos-Grol", "date": "1987", "rating": "3.36" }
+  ],
+  "V/Vm": [
+    {
+      "name": "The Death of Rave (The Source)",
+      "date": "July 2006",
+      "rating": "3.36"
+    }
+  ],
+  "Helm": [
+    { "name": "Axis", "date": "12 November 2021", "rating": "3.39" },
+    { "name": "Chemical Flowers", "date": "17 May 2019", "rating": "3.29" }
+  ],
+  "Wolvserpent": [
+    {
+      "name": "Perigaea Antahkarana",
+      "date": "17 September 2013",
+      "rating": "3.45"
+    }
+  ],
+  "Cities Last Broadcast": [
+    { "name": "The Cancelled Earth", "date": "22 May 2009", "rating": "3.36" }
+  ],
+  "Pendant": [
+    {
+      "name": "To All Sides They Will Stretch Out Their Hands",
+      "date": "22 September 2021",
+      "rating": "3.35"
+    }
+  ],
+  "In Slaughter Natives": [
+    {
+      "name": "Resurrection - The Return of a King",
+      "date": "18 November 2004",
+      "rating": "3.54"
+    }
+  ],
+  "Alessandro Cortini": [
+    { "name": "Sonno", "date": "July 2014", "rating": "3.36" }
+  ],
+  "Murcof": [
+    { "name": "The Alias Sessions", "date": "21 May 2021", "rating": "3.38" }
+  ],
+  "Big City Orchestra": [
+    { "name": "Daydreams of Night", "date": "1986", "rating": "3.35" }
+  ],
+  "Mamiffer": [
+    { "name": "The World Unseen", "date": "1 April 2016", "rating": "3.35" }
+  ],
+  "Giancarlo Toniutti": [
+    { "name": "La mutazione", "date": "1985", "rating": "3.42" }
+  ],
+  "Bass Communion": [
+    {
+      "name": "Ghosts on Magnetic Tape",
+      "date": "February 2004",
+      "rating": "3.31"
+    }
+  ],
+  "Slingbaum": [
+    { "name": "Slingbaum One", "date": "May 2020", "rating": "3.47" }
+  ],
+  "Megaptera": [
+    {
+      "name": "The Curse of the Scarecrow",
+      "date": "June 1998",
+      "rating": "3.34"
+    }
+  ],
+  "VOX Populi!": [
+    { "name": "Half Dead Ganja Music", "date": "1987", "rating": "3.34" }
+  ],
+  "Die Sonne Satan": [
+    { "name": "Fac-Totum", "date": "1993", "rating": "3.51" }
+  ],
+  "D.Å.R.F.D.H.S.": [
+    {
+      "name": "Mörkret, kylan, tystnaden & ensamheten",
+      "date": "30 April 2015",
+      "rating": "3.32"
+    },
+    { "name": "Förensligandet", "date": "14 April 2016", "rating": "3.33" }
+  ],
+  " Nijiumu": [
+    {
+      "name": "悲翼紀 (Era of Sad Wings)",
+      "date": "25 April 1993",
+      "rating": "3.31"
+    }
+  ],
+  "KTL": [{ "name": "2", "date": "7 May 2007", "rating": "3.31" }],
+  "Fis": [
+    {
+      "name": "From Patterns to Details",
+      "date": "23 September 2016",
+      "rating": "3.31"
+    },
+    {
+      "name": "The Blue Quicksand Is Going Now",
+      "date": "29 June 2015",
+      "rating": "3.32"
+    }
+  ],
+  "Bad Sector": [{ "name": "Kosmodrom", "date": "2005", "rating": "3.31" }],
+  "Wraiths": [
+    { "name": "Plaguebearer", "date": "27 February 2007", "rating": "3.32" }
+  ],
+  "Marek Żebrowski": [
+    { "name": "Polish Night Music", "date": "25 March 2008", "rating": "3.32" }
+  ],
+  "Puce Mary": [
+    {
+      "name": "An Exploitative Version of Surrogacy",
+      "date": "12 July 2019",
+      "rating": "3.33"
+    }
+  ],
+  "Old Tower": [
+    { "name": "Spectral Horizons", "date": "19 July 2016", "rating": "3.32" }
+  ],
+  "Cadu Tenório": [
+    { "name": "Monument for Nothing", "date": "18 June 2020", "rating": "3.30" }
+  ],
+  "Lost Salt Blood Purges": [
+    {
+      "name": "Only the Youngest Grave",
+      "date": "1 January 2016",
+      "rating": "3.28"
+    }
+  ],
+  "Controlled Bleeding": [
+    { "name": "The Poisoner", "date": "1997", "rating": "3.53" }
+  ],
+  "Tongue Depressor": [
+    { "name": "Bones for Time", "date": "10 February 2023", "rating": "3.61" }
+  ],
+  "Vinterriket": [
+    { "name": "Lichtschleier", "date": "15 May 2006", "rating": "3.44" }
+  ],
+  "Apoptose": [{ "name": "Nordland", "date": "1 May 2000", "rating": "3.52" }],
+  "Ensemble Economique": [
+    { "name": "Psychical", "date": "1 November 2010", "rating": "3.29" }
+  ],
+  "Klara Lewis": [{ "name": "Ett", "date": "14 April 2014", "rating": "3.27" }],
+  "Propergol": [
+    {
+      "name": "Ground Proximity Warning System",
+      "date": "June 2006",
+      "rating": "3.51"
+    }
+  ],
+  "Aindulmedir": [
+    {
+      "name": "The Winter Scriptures",
+      "date": "11 February 2021",
+      "rating": "3.30"
+    }
+  ],
+  "Dark Ages": [
+    {
+      "name": "A Chronicle of the Plague",
+      "date": "October 2006",
+      "rating": "3.27"
+    }
+  ],
+  "Aghast": [
+    {
+      "name": "Hexerei im Zwielicht der Finsternis",
+      "date": "1995",
+      "rating": "3.24"
+    }
+  ],
+  "JH1.FS3": [
+    {
+      "name": "Trials and Tribulations",
+      "date": "25 January 2019",
+      "rating": "3.29"
+    }
+  ],
+  "Laibach": [
+    {
+      "name": "Also Sprach Zarathustra",
+      "date": "14 July 2017",
+      "rating": "3.26"
+    }
+  ],
+  "Juçara Marçal": [
+    { "name": "Anganga", "date": "6 October 2015", "rating": "3.26" }
+  ],
+  "Elegi": [{ "name": "Varde", "date": "17 January 2009", "rating": "3.31" }],
+  "Fantômas": [
+    { "name": "Delìrivm Còrdia", "date": "27 January 2004", "rating": "3.21" }
+  ],
+  "Fauna": [{ "name": "The Hunt", "date": "2007", "rating": "3.27" }],
+  "KK Null": [
+    { "name": "Abiogenesis", "date": "5 January 2019", "rating": "3.32" }
+  ],
+  "Leviathan": [
+    {
+      "name": "A Silhouette in Splinters",
+      "date": "1 June 2005",
+      "rating": "3.23"
+    }
+  ],
+  "Neptune Towers": [
+    {
+      "name": "Transmissions From Empire Algol",
+      "date": "1995",
+      "rating": "3.26"
+    }
+  ],
+  "Moss Harvest": [
+    { "name": "Ferric Memory", "date": "31 December 2019", "rating": "3.65" }
+  ],
+  "Spektr": [
+    {
+      "name": "The Art to Disappear",
+      "date": "29 January 2016",
+      "rating": "3.25"
+    }
+  ]
+}

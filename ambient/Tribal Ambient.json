@@ -1,0 +1,460 @@
+{
+  " Geinoh Yamashirogumi": [
+    { "name": "輪廻交響楽 (Ecophony Rinne)", "date": "1986", "rating": "3.79" },
+    { "name": "Ecophony Gaia", "date": "1990", "rating": "3.65" }
+  ],
+  "James Ferraro": [
+    { "name": "Jarvid 9: Gecko", "date": "12 April 2009", "rating": "3.75" },
+    {
+      "name": "Jarvid 9: Kava Jar Race",
+      "date": "12 April 2009",
+      "rating": "3.62"
+    },
+    {
+      "name": "Postremo Mundus Techno-Symposium",
+      "date": "September 2008",
+      "rating": "3.06"
+    }
+  ],
+  "Steve Roach": [
+    { "name": "Dreamtime Return", "date": "1988", "rating": "3.71" },
+    { "name": "Soma", "date": "1992", "rating": "3.48" },
+    { "name": "World's Edge", "date": "March 1992", "rating": "3.43" },
+    { "name": "Origins", "date": "June 1993", "rating": "3.40" },
+    { "name": "Desert Solitaire", "date": "11 October 1989", "rating": "3.31" },
+    { "name": "Trance Spirits", "date": "20 August 2002", "rating": "3.42" },
+    { "name": "Artifacts", "date": "1994", "rating": "3.43" },
+    { "name": "Early Man", "date": "2000", "rating": "3.39" }
+  ],
+  "Coil": [
+    { "name": "The Remote Viewer", "date": "May 2002", "rating": "3.66" }
+  ],
+  "Jon Hassell": [
+    {
+      "name": "Aka / Darbari / Java: Magic Realism",
+      "date": "1983",
+      "rating": "3.62"
+    },
+    {
+      "name": "Fourth World Volume Two:  Dream Theory in Malaya",
+      "date": "1981",
+      "rating": "3.61"
+    },
+    { "name": "Power Spot", "date": "1986", "rating": "3.57" },
+    {
+      "name": "Fourth World Vol. 1: Possible Musics",
+      "date": "April 1980",
+      "rating": "3.53"
+    },
+    { "name": "Vernal Equinox", "date": "1978", "rating": "3.50" },
+    {
+      "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
+      "date": "1987",
+      "rating": "3.49"
+    },
+    {
+      "name": "Listening to Pictures (Pentimento Volume One)",
+      "date": "8 June 2018",
+      "rating": "3.46"
+    },
+    {
+      "name": "Seeing Through Sound (Pentimento Volume Two)",
+      "date": "24 July 2020",
+      "rating": "3.45"
+    },
+    { "name": "Flash of the Spirit", "date": "1988", "rating": "3.42" }
+  ],
+  "The Threshold HouseBoys Choir": [
+    { "name": "Form Grows Rampant", "date": "19 April 2007", "rating": "3.60" },
+    { "name": "Amulet Edition", "date": "22 November 2008", "rating": "3.53" }
+  ],
+  "Muslimgauze": [
+    { "name": "Veiled Sisters", "date": "24 November 1993", "rating": "3.59" },
+    { "name": "Mullah Said", "date": "July 1998", "rating": "3.58" },
+    {
+      "name": "Return of Black September",
+      "date": "7 August 1996",
+      "rating": "3.56"
+    },
+    { "name": "Narcotic", "date": "10 June 1997", "rating": "3.54" },
+    { "name": "Izlamaphobia", "date": "November 1995", "rating": "3.51" },
+    { "name": "Zul'm", "date": "April 1992", "rating": "3.50" },
+    { "name": "Vote Hezbollah", "date": "15 June 1993", "rating": "3.46" },
+    { "name": "United States of Islam", "date": "June 1991", "rating": "3.39" },
+    { "name": "Betrayal", "date": "November 1993", "rating": "3.39" },
+    { "name": "Sandtrafikar", "date": "11 November 1997", "rating": "3.44" },
+    { "name": "Maroon", "date": "May 1995", "rating": "3.43" },
+    { "name": "Hamas Arc", "date": "October 1993", "rating": "3.36" },
+    { "name": "Abu Nidal", "date": "1987", "rating": "3.37" },
+    { "name": "Baghdad", "date": "11 March 2000", "rating": "3.35" },
+    { "name": "Citadel", "date": "May 1994", "rating": "3.32" },
+    { "name": "Gun Aramaic", "date": "8 January 1996", "rating": "3.31" },
+    { "name": "Coup d'Etat", "date": "March 1987", "rating": "3.32" },
+    { "name": "Flajelata", "date": "February 1986", "rating": "3.28" },
+    { "name": "Iran", "date": "September 1988", "rating": "3.20" },
+    {
+      "name": "Al-Zulfiquar Shaheed",
+      "date": "December 1994",
+      "rating": "3.40"
+    },
+    { "name": "Hajj", "date": "August 1986", "rating": "3.15" },
+    {
+      "name": "Hussein Mahmood Jeeb Tehar Gass",
+      "date": "15 January 1999",
+      "rating": "3.37"
+    },
+    { "name": "The Rape of Palestine", "date": "April 1988", "rating": "3.31" },
+    { "name": "Dome of the Rock", "date": "16 June 2003", "rating": "3.40" },
+    { "name": "Zuriff Moussa", "date": "11 November 1997", "rating": "3.34" },
+    {
+      "name": "Gun Aramaic Part 2",
+      "date": "19 February 1996",
+      "rating": "3.48"
+    }
+  ],
+  "Stephan Micus": [
+    {
+      "name": "The Garden of Mirrors",
+      "date": "1 August 1997",
+      "rating": "3.59"
+    },
+    { "name": "Wings Over Water", "date": "1982", "rating": "3.42" },
+    { "name": "Desert Poems", "date": "2001", "rating": "3.45" }
+  ],
+  "Vasilisk": [
+    { "name": "Acqua", "date": "1989", "rating": "3.56" },
+    { "name": "Mkwaju", "date": "1988", "rating": "3.54" },
+    { "name": "Whirling Dervishes", "date": "1987", "rating": "3.43" },
+    { "name": "Tribal Zone", "date": "May 2012", "rating": "3.58" }
+  ],
+  "Susumu Yokota": [
+    {
+      "name": "The Boy and the Tree",
+      "date": "16 September 2002",
+      "rating": "3.55"
+    }
+  ],
+  "Miguel A. Ruiz": [{ "name": "Climatery", "date": "1986", "rating": "3.55" }],
+  "African Head Charge": [
+    { "name": "Off the Beaten Track", "date": "1986", "rating": "3.53" }
+  ],
+  "Sephiroth": [
+    { "name": "Draconian Poetry", "date": "31 October 2005", "rating": "3.53" },
+    { "name": "Cathedron", "date": "June 1999", "rating": "3.47" }
+  ],
+  "Dead Can Dance": [
+    { "name": "Spiritchaser", "date": "3 June 1996", "rating": "3.50" },
+    { "name": "Dionysus", "date": "2 November 2018", "rating": "3.42" }
+  ],
+  "Klaus Wiese": [
+    { "name": "el-Hadra: The Mystik Dance", "date": "1991", "rating": "3.54" }
+  ],
+  "O Yuki Conjugate": [
+    { "name": "Into Dark Water", "date": "1987", "rating": "3.56" },
+    { "name": "Equator", "date": "1994", "rating": "3.50" },
+    { "name": "Peyote", "date": "1991", "rating": "3.48" }
+  ],
+  ":zoviet*france:": [
+    {
+      "name": "Popular Soviet Songs and Youth Music",
+      "date": "1985",
+      "rating": "3.50"
+    },
+    { "name": "Loh Land", "date": "1987", "rating": "3.46" },
+    {
+      "name": "Misfits, Loony Tunes and Squalid Criminals",
+      "date": "1986",
+      "rating": "3.33"
+    }
+  ],
+  "David Sylvian": [
+    {
+      "name": "Alchemy: An Index of Possibilities",
+      "date": "14 December 1985",
+      "rating": "3.49"
+    }
+  ],
+  "Voice of Eye": [{ "name": "Vespers", "date": "1994", "rating": "3.52" }],
+  "Shackleton": [
+    {
+      "name": "Music for the Quiet Hour / The Drawbar Organ EPs",
+      "date": "30 April 2012",
+      "rating": "3.47"
+    },
+    {
+      "name": "Departing Like Rivers",
+      "date": "10 September 2021",
+      "rating": "3.19"
+    },
+    {
+      "name": "Sferic Ghost Transmits",
+      "date": "19 January 2017",
+      "rating": "3.06"
+    }
+  ],
+  "Suspended Memories": [
+    { "name": "Forgotten Gods", "date": "1993", "rating": "3.50" }
+  ],
+  "Pete Namlook": [
+    { "name": "Air II", "date": "13 January 1994", "rating": "3.54" }
+  ],
+  "László Hortobágyi": [
+    { "name": "Transreplica Meccano", "date": "1989", "rating": "3.48" },
+    {
+      "name": "Traditional Music of Amygdala",
+      "date": "1991",
+      "rating": "3.51"
+    }
+  ],
+  "Paul Schütze": [
+    { "name": "New Maps of Hell", "date": "1992", "rating": "3.48" }
+  ],
+  "Robert Rich": [
+    { "name": "Strata", "date": "1990", "rating": "3.47" },
+    { "name": "Fissures", "date": "1997", "rating": "3.45" },
+    { "name": "Seven Veils", "date": "1998", "rating": "3.33" },
+    { "name": "Gaudí", "date": "1991", "rating": "3.25" }
+  ],
+  "Arcana": [
+    { "name": "Le serpent rouge", "date": "22 December 2004", "rating": "3.47" }
+  ],
+  "Syven": [
+    { "name": "Aikaintaite", "date": "6 December 2011", "rating": "3.44" }
+  ],
+  "U. Srinivas": [{ "name": "Dream", "date": "1995", "rating": "3.46" }],
+  "Jorge Reyes": [
+    { "name": "Comala", "date": "1986", "rating": "3.44" },
+    { "name": "Ek-Tunkul", "date": "1983", "rating": "3.34" }
+  ],
+  "Roberto Musci & Giovanni Venosta": [
+    { "name": "Urban and Tribal Portraits", "date": "1988", "rating": "3.55" },
+    {
+      "name": "Water Messages on Desert Sand",
+      "date": "1987",
+      "rating": "3.57"
+    }
+  ],
+  " Yoshiaki Ochi": [
+    { "name": "Natural Sonic", "date": "1990", "rating": "3.43" }
+  ],
+  "Andrew Pekler": [
+    {
+      "name": "Sounds From Phantom Islands",
+      "date": "8 November 2019",
+      "rating": "3.42"
+    }
+  ],
+  "Steve Roach & Vidna Obmana": [
+    { "name": "Well of Souls", "date": "12 June 1995", "rating": "3.43" }
+  ],
+  "Monopoly Child Star Searchers": [
+    { "name": "Bamboo for Two", "date": "11 November 2010", "rating": "3.39" },
+    { "name": "Prince of Parrot Shooters", "date": "2008", "rating": "3.49" },
+    { "name": "Make Mine, Macaw", "date": "2010", "rating": "3.36" }
+  ],
+  "X.Y.R.": [
+    { "name": "Pilgrimage", "date": "4 September 2020", "rating": "3.42" },
+    { "name": "Labyrinth", "date": "30 June 2017", "rating": "3.29" }
+  ],
+  "Tribes of Neurot": [
+    { "name": "Static Migration", "date": "1998", "rating": "3.41" }
+  ],
+  "Yas-Kaz": [
+    { "name": "縄文頌 (Jomon-Sho)", "date": "1984", "rating": "3.42" }
+  ],
+  "Rainforest Spiritual Enslavement": [
+    { "name": "Green Graves", "date": "6 March 2016", "rating": "3.39" }
+  ],
+  "Música Esporádica": [
+    { "name": "Música Esporádica", "date": "1985", "rating": "3.40" }
+  ],
+  "Carmen Villain": [
+    {
+      "name": "Only Love From Now On",
+      "date": "25 February 2022",
+      "rating": "3.38"
+    }
+  ],
+  "Egberto Gismonti": [
+    { "name": "Duas vozes", "date": "1985", "rating": "3.37" }
+  ],
+  "Wolf Müller": [
+    { "name": "The Sound of Glades", "date": "10 June 2016", "rating": "3.43" },
+    {
+      "name": "Instrumentalmusik von der Mitte der World",
+      "date": "8 February 2018",
+      "rating": "3.30"
+    }
+  ],
+  "Kenneth Newby": [
+    { "name": "Ecology of Souls", "date": "1994", "rating": "3.37" }
+  ],
+  "Ulf Söderberg": [
+    { "name": "Vindarnas hus", "date": "2003", "rating": "3.51" }
+  ],
+  "Chi": [{ "name": "Chi", "date": "5 January 1986", "rating": "3.54" }],
+  "Minóy": [
+    { "name": "The Art of Egyptian Bathing", "date": "1986", "rating": "3.34" }
+  ],
+  "Leif": [{ "name": "Loom Dream", "date": "21 June 2019", "rating": "3.34" }],
+  "De Leon": [{ "name": "De Leon", "date": "9 March 2018", "rating": "3.36" }],
+  "Futuro Antico": [
+    {
+      "name": "Dai primitivi all'elettronica",
+      "date": "1990",
+      "rating": "3.36"
+    },
+    { "name": "Futuro Antico", "date": "1980", "rating": "3.22" }
+  ],
+  "Nirvana": [
+    { "name": "Malanyang Nirvana Safari", "date": "2007", "rating": "3.48" },
+    {
+      "name": "Body of Consciousness / Uguiya to Jeep by Iguana Greenwave",
+      "date": "2007",
+      "rating": "3.60"
+    }
+  ],
+  "Roberto Musci": [
+    { "name": "The Loa of Music", "date": "1984", "rating": "3.50" }
+  ],
+  "Kilchhofer": [
+    { "name": "The Book Room", "date": "February 2018", "rating": "3.33" }
+  ],
+  "Mo Boma": [
+    { "name": "Myths of the Near Future", "date": "1994", "rating": "3.35" }
+  ],
+  "Zero Kama": [
+    {
+      "name": "The Secret Eye of L.A.Y.L.A.H.",
+      "date": "September 1984",
+      "rating": "3.27"
+    }
+  ],
+  "Rapoon": [
+    { "name": "Vernal Crossing", "date": "1993", "rating": "3.42" },
+    { "name": "Fallen Gods", "date": "1994", "rating": "3.43" }
+  ],
+  "David Toop": [{ "name": "Buried Dreams", "date": "1994", "rating": "3.61" }],
+  "Bill Laswell": [
+    { "name": "Hear No Evil", "date": "1988", "rating": "3.32" }
+  ],
+  " Hiroshi Yoshimura": [
+    { "name": "Quiet Forest", "date": "10 June 1998", "rating": "3.31" }
+  ],
+  "Chi Factory": [
+    {
+      "name": "The Mantra Recordings",
+      "date": "11 February 2019",
+      "rating": "3.28"
+    }
+  ],
+  "Finis Africae": [
+    { "name": "Finis Africae", "date": "1984", "rating": "3.54" }
+  ],
+  "Valentina Magaletti": [
+    { "name": "Due matte", "date": "11 June 2020", "rating": "3.30" }
+  ],
+  "Steve Tibbetts": [
+    { "name": "Safe Journey", "date": "1984", "rating": "3.45" }
+  ],
+  "Eblen Macari": [
+    { "name": "Música para planetarios", "date": "1987", "rating": "3.43" }
+  ],
+  "Tunes of Negation": [
+    {
+      "name": "Reach the Endless Sea",
+      "date": "17 October 2019",
+      "rating": "3.27"
+    },
+    {
+      "name": "Like the Stars Forever and Ever",
+      "date": "26 November 2020",
+      "rating": "3.32"
+    }
+  ],
+  "Justin Walter": [
+    { "name": "Unseen Forces", "date": "21 April 2017", "rating": "3.26" }
+  ],
+  "Nicola Alesini": [
+    { "name": "Marco Polo", "date": "22 March 1996", "rating": "3.52" }
+  ],
+  "Pariah": [
+    {
+      "name": "Here From Where We Are",
+      "date": "13 July 2018",
+      "rating": "3.24"
+    }
+  ],
+  "Uwalmassa": [
+    { "name": "Malar", "date": "5 January 2022", "rating": "3.21" }
+  ],
+  "Panchasila": [
+    { "name": "Panchasila", "date": "24 August 2018", "rating": "3.21" }
+  ],
+  "Trance Mission": [
+    { "name": "Trance Mission", "date": "1993", "rating": "3.48" }
+  ],
+  "Asa Tone": [
+    { "name": "Temporary Music", "date": "31 January 2020", "rating": "3.19" }
+  ],
+  "RAMZi": [
+    {
+      "name": "Phobiza: Amor Fati Vol. 3",
+      "date": "August 2018",
+      "rating": "3.35"
+    }
+  ],
+  "Emmanuelle Parrenin": [
+    { "name": "Jours de grève", "date": "15 January 2021", "rating": "3.18" }
+  ],
+  "Japan Blues": [
+    {
+      "name": "Sells His Record Collection",
+      "date": "February 2017",
+      "rating": "3.17"
+    }
+  ],
+  "Paradise Cinema": [
+    { "name": "Paradise Cinema", "date": "9 October 2020", "rating": "3.36" }
+  ],
+  "Trial of the Bow": [
+    { "name": "Rite of Passage", "date": "11 March 1997", "rating": "3.44" }
+  ],
+  "Craig Leon": [{ "name": "Visiting", "date": "1982", "rating": "3.34" }],
+  "Mystic AM": [
+    { "name": "Cardamom & Laudanum", "date": "15 July 2022", "rating": "3.48" }
+  ],
+  "Abdullah Miniawy": [
+    {
+      "name": "Notice a Tiny Scratch for the Blue Behind",
+      "date": "10 February 2022",
+      "rating": "3.45"
+    }
+  ],
+  "K. Leimer": [
+    { "name": "Imposed Order", "date": "January 1983", "rating": "3.43" }
+  ],
+  "Iona Fortune": [
+    { "name": "Tao of I", "date": "23 May 2017", "rating": "3.14" }
+  ],
+  "Geomatic": [
+    { "name": "Blue Beam", "date": "14 January 2008", "rating": "3.43" }
+  ],
+  "HANDS": [
+    {
+      "name": "The Soul Is Quick",
+      "date": "10 February 2014",
+      "rating": "3.28"
+    }
+  ],
+  "Lucky Dragons": [
+    {
+      "name": "Dream Island Laughing Language",
+      "date": "2008",
+      "rating": "3.08"
+    }
+  ],
+  "Lights in a Fat City": [
+    { "name": "Somewhere", "date": "1988", "rating": "3.44" }
+  ]
+}
